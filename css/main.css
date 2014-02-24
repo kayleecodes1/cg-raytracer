@@ -1,0 +1,14 @@
+#viewportContainer {
+	width: 512px;
+	height: 512px;
+	margin: 35px auto;
+	
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
+#viewport {
+	border: 1px solid #000;
+	width: 512px;
+	height: 512px;
+}
