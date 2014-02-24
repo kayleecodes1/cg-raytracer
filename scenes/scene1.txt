@@ -1,0 +1,10 @@
+240 248 5000// viewpoint
+1 // antialiasing
+1 // numlights
+700 400 2000 1 1 1 // Lx, Ly, Lz, r, g, b
+4 // numspheres
+//cx cy  cz  radius R  G   B  ka kd ks specExp kgr kt
+100  100 50  50    .5  0   .5 .1 .9 .0 4       0   0
+150  200 250 50    .5  .5  0  .1 .9 .2 12      0   0
+350  220 500 50    0   .5  .5 .1 .9 .5 24      0   0
+250  300 750 50    .25 .25 .5 .1 .9 .8 36      0   0
