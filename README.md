@@ -1,6 +1,4 @@
-Computer Graphics (CS4300)
-Assignment 6
-Fall 2012
+# Computer Graphics (CS4300) Assignment 6 - Fall 2012
 
 For this assignment I just used the standard HTML5 canvas functionality. I also used jQuery and a library called Sylvester that does some matrix math which I used for computing cross products and various other things.
 
